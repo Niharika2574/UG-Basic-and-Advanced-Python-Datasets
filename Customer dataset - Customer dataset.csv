@@ -1,0 +1,201 @@
+CustomerID,Gender,TransactionAmount,CustomerFeedback,Age,Discount,Quantity,ProductCategory,PaymentMethod,TransactionDate
+1001,0,"$1,071.43",average,,18.35605515,7,Electronics,Cash,2022-01-01
+1002,0,$738.94,I am not satisfied with the product.,19,27.06333715,5,Grocery,Cash,2022-01-02
+1003,1,$383.67,Will definitely recommend to others.,31,7.062713361,3,Grocery,Credit Card,2022-01-03
+1004,0,"$1,522.03",The service was excellent.,30,25.61285117,9,Books,UPI,2022-01-04
+1005,0,$493.87,bad,46,,1,Clothing,Credit Card,2022-01-05
+1006,0,"$1,253.54",Will definitely recommend to others.,,13.05236756,1,Grocery,Cash,2022-01-06
+1007,1,"$1,710.34",I am not satisfied with the product.,,29.43665966,1,Clothing,UPI,2022-01-07
+1008,1,"$1,039.14",good,19,10.02147725,3,Books,UPI,2022-01-08
+1009,1,$202.69,I am not satisfied with the product.,,22.32984852,6,Clothing,Credit Card,2022-01-09
+1010,1,$493.05,bad,,25.5360182,3,Grocery,Cash,2022-01-10
+1011,1,$722.92,bad,,6.029587382,8,Clothing,Cash,2022-01-11
+1012,1,$992.82,Will definitely recommend to others.,44,21.75963646,2,Grocery,UPI,2022-01-12
+1013,1,$899.99,I am not satisfied with the product.,66,28.78874936,9,Clothing,Credit Card,2022-01-13
+1014,0,"$1,061.92",bad,58,8.105499168,3,Grocery,Debit Card,2022-01-14
+1015,no,$893.43,Will definitely recommend to others.,,27.40553257,5,Grocery,Debit Card,2022-01-15
+1016,1,$76.45,good,57,19.86941593,8,Clothing,Cash,2022-01-16
+1017,0,"$1,595.44",good,48,20.41511455,2,Books,Debit Card,2022-01-17
+1018,0,"$1,576.50",The service was excellent.,51,20.32360437,6,Electronics,Cash,2022-01-18
+1019,1,"$1,222.36",I am not satisfied with the product.,41,12.47089716,5,Books,Cash,2022-01-19
+1020,0,"$1,373.25",average,,28.38004538,9,Clothing,Cash,2022-01-20
+1021,0,$179.86,bad,,28.68376157,5,Books,Debit Card,2022-01-21
+1022,yes,$789.50,Will definitely recommend to others.,65,20.63261651,2,Grocery,Cash,2022-01-22
+1023,0,"$1,341.83",bad,23,24.58556815,5,Electronics,UPI,2022-01-23
+1024,0,"$1,169.12",The service was excellent.,36,20.30644965,4,Clothing,Credit Card,2022-01-24
+1025,no,"$1,863.07",I am not satisfied with the product.,47,17.10996119,7,Clothing,Credit Card,2022-01-25
+1026,yes,"$1,132.40",good,24,21.52050296,6,Clothing,Cash,2022-01-26
+1027,1,$396.79,The service was excellent.,27,18.82503631,2,Electronics,Credit Card,2022-01-27
+1028,0,$455.30,I am not satisfied with the product.,58,,5,Grocery,Debit Card,2022-01-28
+1029,1,$92.22,I am not satisfied with the product.,49,24.59581384,7,Clothing,Debit Card,2022-01-29
+1030,0,$409.32,average,51,17.02259579,7,Books,Credit Card,2022-01-30
+1031,0,"$1,844.35",average,45,6.018852652,5,Clothing,Debit Card,2022-01-31
+1032,0,"$1,002.38",average,,9.099987025,9,Clothing,Credit Card,2022-02-01
+1033,0,"$1,143.32",good,,15.96518041,4,Clothing,Credit Card,2022-02-02
+1034,1,$432.84,average,54,23.120664,3,Clothing,Credit Card,2022-02-03
+1035,1,$547.06,The service was excellent.,46,19.83196621,4,Grocery,Cash,2022-02-04
+1036,0,$459.21,good,39,21.25735465,5,Books,Credit Card,2022-02-05
+1037,1,"$1,237.81",good,,16.98197321,6,Grocery,Cash,2022-02-06
+1038,0,"$1,096.25",good,37,20.39355055,3,Books,Credit Card,2022-02-07
+1039,1,$691.46,The service was excellent.,49,13.22543595,2,Clothing,Credit Card,2022-02-08
+1040,1,"$1,038.11",I am not satisfied with the product.,53,,4,Electronics,Credit Card,2022-02-09
+1041,0,$719.55,The service was excellent.,67,23.60697664,5,Grocery,Debit Card,2022-02-10
+1042,1,"$1,377.14",The service was excellent.,,,4,Electronics,Cash,2022-02-11
+1043,0,"$1,489.33",Will definitely recommend to others.,,15.84138335,3,Grocery,Cash,2022-02-12
+1044,1,$996.40,average,34,6.091541443,8,Clothing,Credit Card,2022-02-13
+1045,0,$659.94,The service was excellent.,29,9.041813604,4,Grocery,Credit Card,2022-02-14
+1046,0,"$1,242.40",average,39,5.521528482,2,Clothing,Debit Card,2022-02-15
+1047,1,$53.04,bad,34,21.33157548,2,Grocery,Debit Card,2022-02-16
+1048,1,$679.57,The service was excellent.,27,13.30786563,1,Clothing,Debit Card,2022-02-17
+1049,no,"$1,243.87",I am not satisfied with the product.,18,18.56196589,4,Clothing,Cash,2022-02-18
+1050,1,"$1,989.67",I am not satisfied with the product.,39,17.33192117,9,Books,Cash,2022-02-19
+1051,1,$778.06,The service was excellent.,43,7.038162239,7,Clothing,Cash,2022-02-20
+1052,0,"$1,823.62",bad,,15.08153403,7,Books,Credit Card,2022-02-21
+1053,0,"$1,447.17",bad,,10.51402812,7,Clothing,Cash,2022-02-22
+1054,1,"$1,545.30",good,31,15.45999472,8,Electronics,UPI,2022-02-23
+1055,0,$74.24,The service was excellent.,64,,1,Clothing,UPI,2022-02-24
+1056,0,$525.53,I am not satisfied with the product.,46,26.01131016,8,Electronics,Debit Card,2022-02-25
+1057,no,"$1,286.14",bad,29,9.354833414,4,Electronics,Cash,2022-02-26
+1058,1,$805.70,average,,29.01951379,4,Clothing,UPI,2022-02-27
+1059,1,"$1,516.86",average,52,15.39768415,4,Electronics,Debit Card,2022-02-28
+1060,0,$597.16,bad,69,26.1561323,6,Books,Cash,2022-03-01
+1061,no,$995.57,Will definitely recommend to others.,,20.71912046,7,Grocery,Credit Card,2022-03-02
+1062,0,$312.97,bad,24,23.38375747,6,Clothing,UPI,2022-03-03
+1063,1,"$1,546.57",average,46,24.1930972,1,Electronics,Credit Card,2022-03-04
+1064,0,"$1,933.02",Will definitely recommend to others.,28,,8,Clothing,Cash,2022-03-05
+1065,0,$355.23,bad,50,18.58251308,7,Books,UPI,2022-03-06
+1066,1,"$1,995.55",Will definitely recommend to others.,23,17.8498967,6,Clothing,Cash,2022-03-07
+1067,0,"$1,242.59",The service was excellent.,64,19.70145945,6,Clothing,Credit Card,2022-03-08
+1068,1,$289.62,Will definitely recommend to others.,,,5,Electronics,UPI,2022-03-09
+1069,1,$974.49,I am not satisfied with the product.,49,14.88787925,6,Books,Credit Card,2022-03-10
+1070,0,"$1,422.56",I am not satisfied with the product.,68,,9,Grocery,Cash,2022-03-11
+1071,0,$720.29,average,28,19.94308913,9,Grocery,Cash,2022-03-12
+1072,1,$705.81,The service was excellent.,40,24.82390237,8,Electronics,Credit Card,2022-03-13
+1073,0,"$1,663.96",bad,43,21.37523347,9,Clothing,UPI,2022-03-14
+1074,0,"$1,876.98",good,51,29.80333291,8,Electronics,Credit Card,2022-03-15
+1075,0,$803.99,I am not satisfied with the product.,63,12.09636322,8,Electronics,Cash,2022-03-16
+1076,0,"$1,560.39",good,51,13.97877574,1,Electronics,Credit Card,2022-03-17
+1077,0,"$1,621.88",Will definitely recommend to others.,46,14.5961788,5,Clothing,Cash,2022-03-18
+1078,1,"$1,338.60",good,21,16.64532018,4,Books,Credit Card,2022-03-19
+1079,1,$956.61,average,,25.89995159,2,Electronics,UPI,2022-03-20
+1080,yes,$942.27,Will definitely recommend to others.,,10.89480235,8,Clothing,UPI,2022-03-21
+1081,0,"$1,085.18",good,30,24.40000518,3,Books,Credit Card,2022-03-22
+1082,0,$581.94,good,58,15.13275458,4,Electronics,Credit Card,2022-03-23
+1083,1,"$1,008.82",Will definitely recommend to others.,56,20.04638459,7,Grocery,UPI,2022-03-24
+1084,0,$147.02,good,32,20.81351333,9,Books,Cash,2022-03-25
+1085,1,"$1,525.56",The service was excellent.,46,14.32121593,2,Electronics,UPI,2022-03-26
+1086,1,"$1,049.12",I am not satisfied with the product.,46,17.81538013,3,Books,Cash,2022-03-27
+1087,1,"$1,237.81",average,28,15.32577937,4,Books,Credit Card,2022-03-28
+1088,0,"$1,936.52",The service was excellent.,69,6.728319655,1,Books,Credit Card,2022-03-29
+1089,1,"$1,518.88",good,49,15.92913472,7,Books,Cash,2022-03-30
+1090,0,$234.59,Will definitely recommend to others.,19,7.434834814,2,Books,Credit Card,2022-03-31
+1091,1,$844.63,good,64,15.12551998,5,Books,Cash,2022-04-01
+1092,0,$408.74,good,31,19.82296,1,Electronics,Debit Card,2022-04-02
+1093,1,"$1,914.02",good,37,19.48537248,3,Grocery,UPI,2022-04-03
+1094,0,$87.90,Will definitely recommend to others.,39,21.56553198,2,Clothing,Debit Card,2022-04-04
+1095,1,$84.69,good,,7.381537699,1,Books,Cash,2022-04-05
+1096,0,$237.63,The service was excellent.,44,21.30308114,7,Clothing,UPI,2022-04-06
+1097,0,$261.81,I am not satisfied with the product.,,12.80370142,5,Electronics,Cash,2022-04-07
+1098,0,"$1,007.42",average,34,14.97614865,1,Books,UPI,2022-04-08
+1099,0,$212.60,good,61,,6,Grocery,UPI,2022-04-09
+1100,1,$354.21,I am not satisfied with the product.,45,5.225760103,5,Clothing,UPI,2022-04-10
+1101,1,"$1,776.08",The service was excellent.,46,,3,Books,UPI,2022-04-11
+1102,0,"$1,375.61",bad,38,19.9678495,7,Electronics,Cash,2022-04-12
+1103,1,"$1,213.02",average,64,14.91649441,9,Grocery,UPI,2022-04-13
+1104,0,$94.62,Will definitely recommend to others.,,10.92569643,9,Clothing,UPI,2022-04-14
+1105,0,"$1,097.95",Will definitely recommend to others.,54,10.86685096,9,Clothing,Debit Card,2022-04-15
+1106,no,"$1,455.02",average,37,27.09274174,2,Books,Credit Card,2022-04-16
+1107,0,"$1,792.71",bad,,16.05060934,3,Grocery,Credit Card,2022-04-17
+1108,0,"$1,610.18",good,,,7,Grocery,Debit Card,2022-04-18
+1109,1,"$1,404.52",good,22,,5,Grocery,Debit Card,2022-04-19
+1110,0,"$1,984.02",I am not satisfied with the product.,20,21.73476004,2,Grocery,Cash,2022-04-20
+1111,0,"$1,507.39",Will definitely recommend to others.,18,8.643914206,3,Electronics,Cash,2022-04-21
+1112,0,$150.23,I am not satisfied with the product.,55,16.23584588,6,Grocery,Cash,2022-04-22
+1113,0,$375.85,I am not satisfied with the product.,32,19.69710928,7,Clothing,Debit Card,2022-04-23
+1114,1,$588.61,I am not satisfied with the product.,51,28.71458387,9,Clothing,Debit Card,2022-04-24
+1115,1,"$1,338.57",Will definitely recommend to others.,52,11.31319455,1,Electronics,UPI,2022-04-25
+1116,1,"$1,085.03",Will definitely recommend to others.,,13.9812687,7,Clothing,Cash,2022-04-26
+1117,0,"$1,573.46",good,42,14.48396475,8,Clothing,Cash,2022-04-27
+1118,0,"$1,443.35",Will definitely recommend to others.,,20.13845394,3,Grocery,Cash,2022-04-28
+1119,1,$943.87,good,29,,4,Clothing,Credit Card,2022-04-29
+1120,0,$371.29,I am not satisfied with the product.,35,18.33779813,6,Electronics,UPI,2022-04-30
+1121,0,"$1,420.17",average,,,7,Grocery,Cash,2022-05-01
+1122,0,"$1,994.20",The service was excellent.,,22.63463985,4,Books,Cash,2022-05-02
+1123,0,$817.07,Will definitely recommend to others.,,16.15921616,8,Grocery,Cash,2022-05-03
+1124,1,$376.79,Will definitely recommend to others.,44,26.60540444,5,Electronics,Credit Card,2022-05-04
+1125,1,"$1,346.62",bad,25,18.95350624,1,Grocery,Credit Card,2022-05-05
+1126,1,"$1,943.38",average,63,18.49764599,4,Grocery,Debit Card,2022-05-06
+1127,0,$967.81,average,42,5.854694148,3,Electronics,UPI,2022-05-07
+1128,1,"$1,050.77",bad,34,29.66732451,9,Grocery,Debit Card,2022-05-08
+1129,1,"$1,381.92",The service was excellent.,46,8.074270213,8,Electronics,UPI,2022-05-09
+1130,0,$638.34,good,25,10.77827281,1,Electronics,Credit Card,2022-05-10
+1131,0,"$1,473.86",good,,6.292420931,6,Books,Cash,2022-05-11
+1132,1,"$1,159.46",Will definitely recommend to others.,44,21.00007417,9,Clothing,Debit Card,2022-05-12
+1133,1,$163.73,good,63,10.61752942,7,Clothing,Cash,2022-05-13
+1134,1,"$1,714.24",bad,67,9.500260937,4,Grocery,Debit Card,2022-05-14
+1135,1,"$1,238.99",I am not satisfied with the product.,,7.213889606,1,Grocery,Credit Card,2022-05-15
+1136,0,$591.33,good,24,7.582723928,2,Books,Credit Card,2022-05-16
+1137,1,$111.61,I am not satisfied with the product.,20,19.61676751,5,Books,Credit Card,2022-05-17
+1138,1,"$1,181.48",The service was excellent.,46,22.20519665,5,Books,Debit Card,2022-05-18
+1139,0,"$1,660.52",Will definitely recommend to others.,61,14.93447471,8,Electronics,UPI,2022-05-19
+1140,1,$936.72,Will definitely recommend to others.,41,,6,Books,Debit Card,2022-05-20
+1141,0,"$1,981.24",Will definitely recommend to others.,20,22.1491934,8,Books,UPI,2022-05-21
+1142,no,$108.33,average,37,5.434494755,2,Grocery,Debit Card,2022-05-22
+1143,0,"$1,240.12",Will definitely recommend to others.,63,,3,Books,Debit Card,2022-05-23
+1144,yes,$50.15,good,,29.3274437,6,Electronics,Credit Card,2022-05-24
+1145,1,"$1,928.87",average,42,19.50280574,3,Electronics,Cash,2022-05-25
+1146,0,$385.60,I am not satisfied with the product.,,11.3556145,6,Grocery,Cash,2022-05-26
+1147,1,"$1,774.66",average,31,18.04325117,6,Books,UPI,2022-05-27
+1148,1,$250.84,average,24,13.5663372,2,Books,Cash,2022-05-28
+1149,0,"$1,333.11",average,,18.30612472,7,Electronics,Debit Card,2022-05-29
+1150,0,$698.59,good,61,8.143537795,2,Books,Debit Card,2022-05-30
+1151,no,$730.70,good,37,,6,Books,Credit Card,2022-05-31
+1152,0,$287.69,Will definitely recommend to others.,,,1,Books,Credit Card,2022-06-01
+1153,1,"$1,146.40",bad,,28.4954948,3,Clothing,Cash,2022-06-02
+1154,1,$524.56,The service was excellent.,55,23.32247296,2,Grocery,UPI,2022-06-03
+1155,1,$118.34,I am not satisfied with the product.,65,9.059547367,7,Clothing,Cash,2022-06-04
+1156,1,"$1,777.03",I am not satisfied with the product.,,9.708727094,4,Grocery,Cash,2022-06-05
+1157,0,$532.85,The service was excellent.,19,23.27073687,8,Electronics,Cash,2022-06-06
+1158,no,"$1,297.65",Will definitely recommend to others.,41,8.90409612,6,Books,Cash,2022-06-07
+1159,0,$681.62,The service was excellent.,,10.86403233,4,Grocery,Debit Card,2022-06-08
+1160,0,"$1,603.07",Will definitely recommend to others.,28,29.08367082,5,Clothing,UPI,2022-06-09
+1161,1,$945.12,average,,11.38266312,9,Books,Debit Card,2022-06-10
+1162,1,$385.90,bad,34,21.54080876,7,Electronics,UPI,2022-06-11
+1163,0,"$1,202.53",Will definitely recommend to others.,25,29.46578219,9,Grocery,Credit Card,2022-06-12
+1164,no,$410.18,average,38,14.35741918,7,Grocery,Cash,2022-06-13
+1165,1,"$1,439.42",Will definitely recommend to others.,35,5.437899772,1,Grocery,Debit Card,2022-06-14
+1166,1,$747.70,I am not satisfied with the product.,47,11.10368226,8,Books,UPI,2022-06-15
+1167,0,"$1,706.83",bad,,,4,Clothing,Credit Card,2022-06-16
+1168,0,"$1,487.86",average,,26.6152209,3,Clothing,Credit Card,2022-06-17
+1169,0,$123.94,Will definitely recommend to others.,64,24.21298411,7,Grocery,Cash,2022-06-18
+1170,1,"$1,385.40",average,48,7.827745477,3,Electronics,UPI,2022-06-19
+1171,0,$509.54,I am not satisfied with the product.,55,24.88775929,8,Electronics,Debit Card,2022-06-20
+1172,0,$500.85,good,49,27.96694492,6,Clothing,Cash,2022-06-21
+1173,0,"$1,701.41",average,28,20.01523856,5,Electronics,Debit Card,2022-06-22
+1174,0,$481.59,average,,28.52188391,4,Clothing,Credit Card,2022-06-23
+1175,0,"$1,060.86",good,42,25.67097209,8,Grocery,Debit Card,2022-06-24
+1176,0,"$1,696.95",Will definitely recommend to others.,50,21.67428792,8,Clothing,Debit Card,2022-06-25
+1177,1,"$1,992.43",The service was excellent.,55,19.42963092,1,Clothing,Cash,2022-06-26
+1178,1,$392.40,good,,13.71434168,9,Grocery,Debit Card,2022-06-27
+1179,0,"$1,328.70",good,25,8.982186131,5,Electronics,Cash,2022-06-28
+1180,0,"$1,646.82",I am not satisfied with the product.,28,20.12384807,4,Clothing,Credit Card,2022-06-29
+1181,1,"$1,154.43",Will definitely recommend to others.,39,12.95278884,6,Clothing,Cash,2022-06-30
+1182,1,"$1,662.80",Will definitely recommend to others.,68,26.66096669,6,Grocery,Cash,2022-07-01
+1183,0,$561.13,bad,41,29.83342343,2,Electronics,UPI,2022-07-02
+1184,0,"$1,708.53",average,58,23.81069407,8,Clothing,Debit Card,2022-07-03
+1185,0,$663.20,good,,7.262042382,7,Grocery,Credit Card,2022-07-04
+1186,0,"$1,238.37",I am not satisfied with the product.,29,12.21713989,1,Clothing,Cash,2022-07-05
+1187,1,"$1,340.28",bad,63,7.727740794,5,Books,Credit Card,2022-07-06
+1188,0,"$1,546.65",good,,21.26279119,6,Grocery,UPI,2022-07-07
+1189,0,"$1,594.06",good,,24.12977161,4,Electronics,Debit Card,2022-07-08
+1190,0,$627.03,good,33,,2,Electronics,Cash,2022-07-09
+1191,yes,"$1,172.36",The service was excellent.,39,15.95430866,4,Electronics,Debit Card,2022-07-10
+1192,1,"$1,208.91",The service was excellent.,,27.53439124,1,Electronics,UPI,2022-07-11
+1193,1,$981.61,average,,26.94727898,7,Clothing,UPI,2022-07-12
+1194,1,$94.52,average,50,12.92989292,2,Clothing,Credit Card,2022-07-13
+1195,0,$289.58,good,27,26.72251564,2,Electronics,Cash,2022-07-14
+1196,0,$150.55,I am not satisfied with the product.,57,14.3918063,9,Electronics,Credit Card,2022-07-15
+1197,1,"$1,545.00",Will definitely recommend to others.,49,12.42173186,5,Electronics,UPI,2022-07-16
+1198,0,$997.16,Will definitely recommend to others.,67,21.22686647,2,Clothing,Debit Card,2022-07-17
+1199,0,$455.99,The service was excellent.,50,13.2095307,9,Electronics,Credit Card,2022-07-18
+1200,1,"$1,519.17",good,19,20.75521871,9,Electronics,Credit Card,2022-07-19
